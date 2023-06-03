@@ -1,0 +1,72 @@
+nav.navbar{
+    background-color: #086375;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+}
+
+.fa-brands{
+    font-size: larger;
+}
+
+body{
+    background-color: #B2FF9E;
+}
+
+img{
+    width: 400px;
+    height: auto;
+    border: solid 1px;
+}
+
+main{
+   text-align: center;
+}
+
+.info{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.datos{
+    display: flex;
+    padding-top: 2em;
+    justify-content: space-evenly;
+}
+
+ol{
+    list-style: none;
+    padding-left: 0;    
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+.laboral{
+    text-align: start;
+}
+
+.formacion{
+    text-align: start;
+}
+
+.portafolio{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 2em;
+}
+
+.portafolio img{
+    width: 300px;
+    height: 150px;
+    
+}
+
+footer p{
+    background-color: #086375;
+    text-align: center; 
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0.5em;
+}
